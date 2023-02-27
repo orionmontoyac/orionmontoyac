@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orionmontoyac
 - 👀 I’m interested in AI, python and make better code.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Go and more python with Learning Python, 5th Editionby Mark Lutz.
 - 💞️ I’m looking to collaborate on everyting.
 - 📫 How to reach me email: orionmontoyac@gmail.com
 
