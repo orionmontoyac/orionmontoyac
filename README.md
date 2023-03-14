@@ -66,6 +66,28 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Web Scraping - Sale Houses</h3>
+        <div align="center">
+          <a href="https://github.com/orionmontoyac/house_scraping" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-0078D4?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          </p>
+          <strong>Jupyter, BS4, OOP</strong> - Web scrapper bot crated to get all the sale houses from 2 web pages. </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">IOT sensor of temperature and humidity</h3>
+        <div align="center">
+          <a href="https://github.com/orionmontoyac/Sensor_Raspberry_Website" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-0052CC?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          </p>
+          <strong>Raspberry, Firebase, Web</strong> - IOT app to track the temperature and humidity, display the data in a local web page.</p>
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
 <!---
