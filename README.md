@@ -56,13 +56,13 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Radio Web Page</h3>
+        <h3 align="center">Real Radar</h3>
         <div align="center">
-          <a href="https://github.com/orionmontoyac/acamica_proyecto1" target="_blank">
+          <a href="[https://github.com/orionmontoyac/acamica_proyecto1](https://github.com/orionmontoyac/realradar)" target="_blank">
             <img src="https://img.shields.io/badge/CODE-0052CC?style=for-the-badge&logo=github&logoColor=black">
           </a>
           </p>
-          <strong>HTML, CSS, JS</strong> - clean, responsive & accessible.</p>
+          <strong>Astro, CSS, JS</strong> - clean, responsive & accessible.</p>
         </div>
       </td>
     </tr>
